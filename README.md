@@ -1,1 +1,15 @@
-### :point_right: This starter repo has moved to the [ionic-team/starters](https://github.com/ionic-team/starters/tree/master/ionic-angular/official/blank) repo! :point_left:
+# ionic2-absolute-drag
+
+Implementation of https://www.joshmorony.com/building-an-absolute-drag-directive-in-ionic-2/
+Great stuff by Josh Morony
+
+
+And as answer to a q on the Ionic Forum
+
+https://forum.ionicframework.com/t/how-to-make-a-draggable-fab/115238/3
+
+The directive needs some work for the FAB
+
+
+
+
